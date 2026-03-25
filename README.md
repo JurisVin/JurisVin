@@ -1,16 +1,39 @@
-## Hi there 👋
+# Yurii — Android Developer
 
-<!--
-**JurisVin/JurisVin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android developer focused on building clean and modern mobile applications using Kotlin and Jetpack Compose.
 
-Here are some ideas to get you started:
+## Portfolio Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### FuelStationMonitor
+
+Android application that displays nearby fuel stations and fuel prices.
+
+**Tech Stack**
+
+* Kotlin
+* Jetpack Compose
+* MVVM Architecture
+* Repository Pattern
+* Material3 UI
+
+Project repository:
+https://github.com/JurisVin/FuelStationMonitor
+
+## Technologies
+
+* Kotlin
+* Jetpack Compose
+* MVVM
+* Android Architecture
+* Coroutines
+* Repository Pattern
+
+## About Me
+
+I am building Android applications and continuously improving my skills in modern Android development.
+
+My focus:
+
+* clean architecture
+* scalable Android apps
+* modern UI with Jetpack Compose
