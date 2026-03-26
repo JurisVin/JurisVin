@@ -1,4 +1,4 @@
-# Yurii — Android Developer
+# Yuri — Android Developer
 
 Android developer focused on building clean, scalable and modern mobile applications using **Kotlin** and **Jetpack Compose**.
 
