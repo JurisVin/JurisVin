@@ -103,6 +103,8 @@ My focus:
 GitHub:  
 https://github.com/JurisVin
 
+📧 Email: yuri.vinogradov.dev@gmail.com
+
 ---
 
 ⭐ Always open to interesting Android development opportunities.
